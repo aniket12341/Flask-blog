@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/vividpip",
+    "prod_uri": "mysql://root:@localhost/vividpip",
+    "fb_url": "https://facebook.com/vividpip",
+    "tw_url": "https://twitter.com/vividpip",
+    "gh_url": "https://github.com/vividpip",
+    "blog_name": "VividPip",
+    "tag_line": "A Directory of Wonderful Things and Stuffs that Matter.",
+    "gmail-user":"",
+    "gmail-password": "",
+    "about_text": "Hii, I am Aniket. I write blogs so you can gain knowledge from my personal favorites.",
+    "num_of_posts": 2,
+    "login_img":"bootstrap.svg",
+    "admin_user":"aniket",
+    "admin_pass":"aniket",
+    "upload_location": "C:\\Users\\lenovo\\PycharmProjects\\flask-tut\\static"
+
+  }
+
+
+}
